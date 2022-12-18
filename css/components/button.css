@@ -1,0 +1,12 @@
+.btn-grey{
+	background-color: rgb(129,91,91);
+	color:white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-style:times;
+}
+
+.btn-grey:hover {
+	background-color:black;
+	color: white;
+}
